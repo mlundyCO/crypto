@@ -1,0 +1,1 @@
+This repository contains a file for converting 50 6-sided dice rolls into a 128-bit number. I think it runs in Python 2, and just requires 50 dice rolls as input and then outputs 128-bit number in hexadecimal.
